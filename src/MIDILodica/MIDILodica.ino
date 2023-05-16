@@ -1,4 +1,3 @@
-ard
 #include <frequencyToNote.h>
 #include <MIDIUSB.h>
 #include <MIDIUSB_Defs.h>
