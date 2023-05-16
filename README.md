@@ -14,4 +14,4 @@ To build the MIDILodica, you will need the following:
 - **1x ABPDANT005PGAA5 Honeywell pressure sensor**
 - **1x SEN-08680 50mm Softpot**
 
-You will also need to obtain a printed circuit board (PCB) with a PCB manufacturing service. The required files are in a .zip in the `/gerber` folder.
+You will also need to obtain a printed circuit board (PCB) with a PCB manufacturing service. The required files are in a .zip in the `/manufacturing/gerber` folder.

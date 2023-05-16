@@ -4,6 +4,7 @@ unsigned long lastDebounce = 0;
 bool pressedNavButtonStates[] = { HIGH, HIGH, HIGH, HIGH, HIGH };
 
 void playMIDINotes() {
+  SPI.end();
   for (byte i = 0; i < rowsLength; i++) {
     pinMode(rows[i], OUTPUT);
     digitalWrite(rows[i], LOW);
@@ -41,4 +42,5 @@ void playMIDINotes() {
 
     pinMode(rows[i], INPUT);
   }
+  SPI.begin();
 }
