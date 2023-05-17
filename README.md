@@ -30,8 +30,11 @@ To build the MIDILodica, you will need the following:
 - **1x SEN-08680 50mm Softpot**
 - **1x 66226-003LF 3pos clincher** (to replace the Softpot headers)
 - **3x Male to Female jumper cables OR 1x 3pos Male to Female jumper cable**
+- **1x 3pos right angle header** (to hold the sensor breakout board)
+- **6x M2x20 screws** (for the housing)
+- **4x M2x8 screws** (for the strip pot plate)
 
-You will also need to obtain a printed circuit board (PCB) with a PCB manufacturing service. The required files are in a .zip in the `/manufacturing/gerber` folder.
+You will also need to obtain TWO printed circuit boards (PCB) with a PCB manufacturing service. The first one is the main board, which has all the buttons and breakout boards. The second PCB holds the sensor, and is attached at a 90 degree angle using the 3pos right angle header. The required files are in a .zip in the `/manufacturing/gerber` folder. If you wish to modify these boards, the `.sch` and `.brd` files are available in the `/manufacturing` folder.
 
 </br>
 
