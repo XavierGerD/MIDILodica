@@ -2,8 +2,6 @@
 
 ## What is the MIDILodica?
 
----
-
 <p align="center">
 <img src="./static/images/MIDILodica.jpg" width=300/>
 </p>
@@ -20,8 +18,6 @@ To accomplish this project, you will need:
 </br>
 
 ## Parts list
-
----
 
 To build the MIDILodica, you will need the following:
 
@@ -41,7 +37,5 @@ You will also need to obtain a printed circuit board (PCB) with a PCB manufactur
 </br>
 
 ## License
-
----
 
 The project is under the GNU General Public License v3.0.
