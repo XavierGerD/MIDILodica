@@ -6,7 +6,7 @@
 <img src="./static/images/MIDILodica.jpg" width=300/>
 </p>
 
-The MIDILodica is a breath-controlled, 3D printed, open-source MIDI device that features a pressure sensor, 35 reassigneable note buttons, a softpot strip potentiometer, full menu navigation with a 320x172 screen, and underside button for additional MIDI and octave manipulation. This repository contains all the files needed to 3D print and manufacture the MIDILodica.
+The MIDILodica is a breath-controlled, 3D printed, open-source MIDI device that features a pressure sensor, 35 reassignable note buttons, a softpot strip potentiometer, full menu navigation with a 320x172 screen, and underside button for additional MIDI and octave manipulation. This repository contains all the files needed to 3D print and manufacture the MIDILodica.
 
 To accomplish this project, you will need:
 
@@ -26,7 +26,6 @@ To build the MIDILodica, you will need the following:
 - **1x Arduino Micro** (with headers)
 - **40x 1N4148 Through-hole diodes**
 - **1x 10k through-hole resistor**
-- **1x 66226-003LF 3-position header connector**
 - **1x ABPDANT005PGAA5 Honeywell pressure sensor**
 - **1x SEN-08680 50mm Softpot**
 - **1x 66226-003LF 3pos clincher** (to replace the Softpot headers)
